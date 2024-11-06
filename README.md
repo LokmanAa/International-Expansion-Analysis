@@ -1,6 +1,6 @@
 Educational Systems Data Analysis
 
-In this project, you will analyze data from educational systems, focusing on univariate analysis and visualizations. This project will deepen your skills in Python programming, data exploration, and using Jupyter Notebooks for presenting your findings in a clear and structured way.
+In this project, I've analyzed data from educational systems, focusing on univariate analysis and visualizations. This project deepened my skills in Python programming, data exploration, and using Jupyter Notebooks for presenting my findings in a clear and structured way.
  
 Key Skills Acquired:
 
